@@ -65,7 +65,8 @@ For Thunderbird, the app detects common profile folders under `~/.thunderbird` a
 
 ## Data locations
 
-Application data is stored under:
+Application data i
+s stored under:
 
 ```text
 ~/.local/share/z-mail-recovery/
