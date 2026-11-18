@@ -1,0 +1,11 @@
+From MAILER-DAEMON Thu Nov  5 15:05:21 2026
+From: Archive Sender <archive@example.test>
+To: Demo Recipient <recipient@example.test>
+Subject: MBOX Sample Message
+Date: Thu, 05 Nov 2026 12:05:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+This is a synthetic MBOX message for testing the parser.
+
